@@ -1,6 +1,6 @@
 # Fingerprint Authentication Example
 
-This is a simple Flutter project demonstrating how to implement fingerprint authentication using the `local_auth` package.  
+This is a simple Flutter project show how to implement fingerprint authentication using the `local_auth` package.  
 
 ---
 
